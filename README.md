@@ -2,7 +2,7 @@
 Just a simple project I made to implement MySQL and PHP
 
 Software prerequisites required:
-1. Apache2/HTTPD web server or a similar technology
+1. Apache2/HTTPD web server or a similar technology (NGINX works as well)
 2. MySQL or MariaDB 5.0 or above
 3. PHP 7.0
 
